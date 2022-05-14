@@ -2,8 +2,6 @@
 Max Deng
 05/10/2022
 """
-from random import random
-from turtle import clear
 import numpy as np #numpy import
 ###utilizing sklearn for implemented PCA/sPCA algorithms###
 from sklearn.decomposition import PCA 
